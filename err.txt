@@ -1,0 +1,15 @@
+  Skipping creating a lockfile at D:\Webdev\agrismart\.next\lock because we're using WASM bindings
+▲ Next.js 16.1.6 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+
+⚠ Attempted to load @next/swc-win32-x64-msvc, but an error occurred: \\?\D:\Webdev\agrismart\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node is not a valid Win32 application.
+\\?\D:\Webdev\agrismart\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+⚠ Attempted to load @next/swc-win32-x64-msvc, but an error occurred: \\?\D:\Webdev\agrismart\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node is not a valid Win32 application.
+\\?\D:\Webdev\agrismart\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node
+
+> Build error occurred
+Error: `turbo.createProject` is not supported by the wasm bindings.
+    at ignore-listed frames
